@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+.venv
+data/jobs/*
+data/exports/*
+!data/jobs/.gitkeep
+!data/exports/.gitkeep

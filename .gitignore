@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+dist/
+build/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+backend/data/jobs/*
+backend/data/exports/*
+!backend/data/jobs/.gitkeep
+!backend/data/exports/.gitkeep
